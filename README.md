@@ -1,2 +1,2 @@
 # anticz
-Anti the Bureaucracy of China Southern Airlines
+Anti the Bureaucracy of China Southern Airlines.
